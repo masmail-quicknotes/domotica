@@ -70,4 +70,14 @@ Automatizaciones inteligentes:
 
 Seleccionamos el botón `Yo`, y dentro de la opción `Más servicios` encontraremos el icono de integración con `Google Assistant`.
 
+Una vez integrado, desde la APP de Google Assistant podremos indicar frases por voz como:
+
+> OK Google, enciende/apaga la lámpara de la habitación.
+
+> OK Google, ajusta la lámpara al 50 por cierto.
+
+> OK Google, ajusta a rojo la lámpara de la habituación.
+
+> OK Google, enciende la bombilla.
+
 
