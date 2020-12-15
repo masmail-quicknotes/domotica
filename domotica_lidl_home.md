@@ -1,6 +1,10 @@
 
 # Domótica para Dummies. Empezando con el kit de LIDL Smart Home
-### Componentes: 
+
+- [Componentes](#markdown-header-componentes)
+
+
+# Componentes : 
 - Silvercrest Central domotica. Model HG06339.
 - Silvercrest Sensor movimiento. Model HG06335. 1 x Pila CR123A 3V.
 - Silvercrest Enchufe inteligente. Model HG06337.
