@@ -1,10 +1,11 @@
 
 # Domótica para Dummies. Empezando con el kit de LIDL Smart Home
 
-- [Componentes](#markdown-header-componentes)
-- [Instalación APP Lidl Home](#markdown-header-instalacion-app-lidl-home)
-- [Smart Actions](#markdown-header-smart-actions)
-- [Smart Automations](#markdown-header-smart-automations)
+- [Componentes](#componentes)
+- [Instalación APP Lidl Home](#instalación-app-lidl-home)
+- [Smart Actions](#smart-actions)
+- [Smart Automations](#smart-automations)
+- [Integración con Google Assistant](#integración-con-google-assistant)
 
 
 # Componentes  
@@ -49,7 +50,9 @@ Acciones inteligentes `Pulse para Ejecutar`:
 
 ![Imagen resumen acciones](./pulse_para_ejectuar.png)
 
-# Smart Automations :
+# Smart Automations
+
+Automatizaciones inteligentes:
 
 1. Ejemplo: Apagar bombilla a los 3 minutos de encenderse.
 
@@ -63,6 +66,8 @@ Acciones inteligentes `Pulse para Ejecutar`:
 
 ![Imagen Si movimiento encender bombilla en 1s](./bombilla_on_pir.png)
 
+# Integración con Google Assistant
 
+Seleccionamos el botón `Yo`, y dentro de la opción `Más servicios` encontraremos el icono de integración con `Google Assistant`.
 
 
