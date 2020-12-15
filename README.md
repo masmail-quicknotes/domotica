@@ -5,11 +5,14 @@
 Empezando con la **Domótica**.
 
 - [Protocolo IEEE 802.15.4 y Zigbee](./ieee_802.15.5_zigbee.md)
+
 - [Domótica para Dummies. Empezando con el kit de LidL Smart Home:](./domotica_lidl_home.md)
 
-> - Componentes.
-> - Acciones inteligentes.
-> - Automatizaciones inteligentes.
+  - [Componentes](./domotica_lidl_home.md#componentes)
+  - [Instalación APP Lidl Home](./domotica_lidl_home.md#instalación-app-lidl-home)
+  - [Smart Actions](./domotica_lidl_home.md#smart-actions)
+  - [Smart Automations](./domotica_lidl_home.md#smart-automations)
+  - [Integración con Google Assistant](./domotica_lidl_home.md#integración-con-google-assistant)
 
 - [_EN CONSTRUCCION_:  Instalación de un coordinador ZigBee en una RasPi]
 
