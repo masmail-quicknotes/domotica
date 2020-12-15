@@ -7,16 +7,17 @@
 - [Smart Automations](#markdown-header-smart-automations)
 
 
-# Componentes : 
-- Silvercrest Central domotica. Model HG06339.
-- Silvercrest Sensor movimiento. Model HG06335. 1 x Pila CR123A 3V.
-- Silvercrest Enchufe inteligente. Model HG06337.
-- Silvercrest Sensor para puertas y ventanas. Model HG06336. IP21. 2 x Pilas AAA.
-- LivarnoLux Cinta con leds 2m. Model HG06336. HG06336.
-- LivarnoLux Bombilla Led E27 9W 806 lm 2200-6500K. A+. Model HG06492C.
-- Lidl Home de Google Play.
-- Integración con Google Home.
-- Zigbee certified.
+# Componentes  
+
+> - Silvercrest Central domotica. Model HG06339.
+> - Silvercrest Sensor movimiento. Model HG06335. 1 x Pila CR123A 3V.
+> - Silvercrest Enchufe inteligente. Model HG06337.
+> - Silvercrest Sensor para puertas y ventanas. Model HG06336. IP21. 2 x Pilas AAA.
+> - LivarnoLux Cinta con leds 2m. Model HG06336. HG06336.
+> - LivarnoLux Bombilla Led E27 9W 806 lm 2200-6500K. A+. Model HG06492C.
+> - Lidl Home de Google Play.
+> - Integración con Google Home.
+> - Zigbee certified.
 
 # Instalación APP Lidl Home
 
@@ -24,7 +25,9 @@
 
 Una vez emparejados los elementos con el Gateway Zigbee. Empezaremos realizando unas acciones tipo `Pulse para Ejecutar`.
 
-# Smart Actions `Pulse para Ejecutar`:
+# Smart Actions
+
+Acciones inteligentes `Pulse para Ejecutar`:
 
 1. Ejemplo: Bombilla ON
 
