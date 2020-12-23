@@ -1,12 +1,18 @@
+# Índice
 
-# Domótica para Dummies. Empezando con el kit de LIDL Smart Home
+Domótica para Dummies. Empezando con el kit de LIDL Smart Home
 
 - [Componentes](#componentes)
+
 - [Instalación APP Lidl Home](#instalación-app-lidl-home)
+
 - [Smart Actions](#smart-actions)
+
 - [Smart Automations](#smart-automations)
+
 - [Integración con Google Assistant](#integración-con-google-assistant)
 
+***
 
 # Componentes  
 
@@ -20,11 +26,15 @@
 > - Integración con Google Home.
 > - Zigbee certified.
 
+***
+
 # Instalación APP Lidl Home
 
 - [GooglePlay: LIDL HOME](https://play.google.com/store/apps/details?id=com.lidlhome.smart&hl=en)
 
 Una vez emparejados los elementos con el Gateway Zigbee. Empezaremos realizando unas acciones tipo `Pulse para Ejecutar`.
+
+***
 
 # Smart Actions
 
@@ -50,6 +60,8 @@ Acciones inteligentes `Pulse para Ejecutar`:
 
 ![Imagen resumen acciones](./pulse_para_ejectuar.png)
 
+***
+
 # Smart Automations
 
 Automatizaciones inteligentes:
@@ -65,6 +77,8 @@ Automatizaciones inteligentes:
 1. Ejemplo: Si movimiento encender bombilla en 1s.
 
 ![Imagen Si movimiento encender bombilla en 1s](./bombilla_on_pir.png)
+
+***
 
 # Integración con Google Assistant
 
